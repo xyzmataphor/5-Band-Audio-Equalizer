@@ -1,1 +1,2 @@
 # 5-Band-Audio-Equalizer
+This project presents the complete design and simulation of a 5-band analog graphic audio equalizer using the Active Inverting Bandpass Filter topology with LT1022 operational amplifiers in simulation and NE5532 for the physical PCB implementation. The equalizer is designed to independently control five frequency bands spanning the full audio range from 60 Hz to 16 kHz, making it suitable for music playback, recording, and general audio signal processing applications.
